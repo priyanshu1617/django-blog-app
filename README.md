@@ -61,8 +61,6 @@ python manage.py runserver
 
 ## Live Demo
 
-(Add deployed link here if hosted)
-
 ---
 
 ## Reference
