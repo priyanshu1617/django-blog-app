@@ -1,0 +1,24 @@
+# Environments
+env_django/
+venv/
+env/
+
+# Python caching
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django local database
+db.sqlite3
+*.sqlite3
+
+# User uploaded media
+media/
+django_project1/media/
+
+# VS Code IDE settings
+.vscode/
+
+# Environment variables
+.env
