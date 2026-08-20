@@ -83,3 +83,36 @@ a.article-title:hover {
   font-size: 2.5rem;
 }
 
+/* Dark Mode Overrides */
+[data-bs-theme="dark"] body {
+  background: #121212;
+  color: #e0e0e0;
+}
+
+[data-bs-theme="dark"] h1, 
+[data-bs-theme="dark"] h2, 
+[data-bs-theme="dark"] h3, 
+[data-bs-theme="dark"] h4, 
+[data-bs-theme="dark"] h5, 
+[data-bs-theme="dark"] h6,
+[data-bs-theme="dark"] .article-title {
+  color: #ffffff;
+}
+
+[data-bs-theme="dark"] .content-section {
+  background: #1e1e1e;
+  border-color: #333333;
+}
+
+[data-bs-theme="dark"] .article-metadata {
+  border-bottom-color: #333333;
+}
+
+[data-bs-theme="dark"] .article-metadata a {
+  color: #adb5bd;
+}
+
+[data-bs-theme="dark"] .article-metadata a:hover {
+  color: #ffffff;
+}
+
