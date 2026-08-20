@@ -56,13 +56,6 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-
----
-
-## Live Demo
-
----
-
 ## Reference
 
 Based on the book:
